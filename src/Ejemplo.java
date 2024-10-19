@@ -4,9 +4,6 @@ import java.util.List;
 public class Ejemplo {
     public static void main(String[] args) {
 
-        Integer edad=32;
-
-
         String nombre="antony";
         String nombre1="fredy";
         String nombre2="juan";

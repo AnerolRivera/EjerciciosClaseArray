@@ -23,8 +23,8 @@ public class EjercicioUno {
         fruits.add("Cherry");
 
         //Imprime el tamaño de la lista y los elementos.
-        System.out.println("Tamaño de la lista: " + fruits.size());
-        System.out.println("Elementos de la lista: " + fruits);
+        System.out.println("El Tamaño de la lista es: " + fruits.size());
+        System.out.println("Los Elementos de la lista son: " + fruits);
 
         //Elimina "Banana" de la lista.
         fruits.remove("Banana");
@@ -36,6 +36,6 @@ public class EjercicioUno {
         }
 
         //Imprime la lista resultante.
-        System.out.println("Lista resultante: " + fruits);
+        System.out.println("Resultado final de la lista: " + fruits);
     }
 }
